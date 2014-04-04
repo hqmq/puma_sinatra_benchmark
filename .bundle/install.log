@@ -1,0 +1,12 @@
+# Logfile created on 2014-04-04 17:23:51 -0600 by logger.rb/44203
+I, [2014-04-04T17:23:51.670752 #18861]  INFO -- : 0:  rack (1.5.2) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-04T17:23:51.671146 #18861]  INFO -- : 0:  rack-protection (1.5.2) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-04T17:23:51.671580 #18861]  INFO -- : 0:  tilt (1.4.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-04T17:23:51.671911 #18861]  INFO -- : 0:  sinatra (1.4.4) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-04T17:23:51.672211 #18861]  INFO -- : 0:  bundler (1.5.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-04-04T17:24:09.788082 #19262]  INFO -- : 0:  rack (1.5.2) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-04T17:24:14.050035 #19262]  INFO -- : 0:  puma (2.8.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/puma-2.8.1.gemspec
+I, [2014-04-04T17:24:14.050625 #19262]  INFO -- : 0:  rack-protection (1.5.2) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-04T17:24:14.050996 #19262]  INFO -- : 0:  tilt (1.4.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-04T17:24:14.051374 #19262]  INFO -- : 0:  sinatra (1.4.4) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-04T17:24:14.051764 #19262]  INFO -- : 0:  bundler (1.5.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
